@@ -3,8 +3,8 @@
 devSeung0v0/devSeung0v0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div>
-  <h2> Front-end Engineer, Seung 👋 </h2>
+<div align='center'>
+  <h1> Front-end Engineer, Seung 👋 </h1>
   
   ### 👀 About my github
   
