@@ -4,7 +4,7 @@ devSeung0v0/devSeung0v0 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <h1> Front-end Engineer, Seung 👋 </h1>
+  <h1> Front-End Developer, Seung 👋 </h1>
   
   ### 👀 About my github
   
